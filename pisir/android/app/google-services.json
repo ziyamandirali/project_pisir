@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "36811673531",
+    "project_id": "pisir-14407",
+    "storage_bucket": "pisir-14407.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36811673531:android:2d2405f4ae07c51d907e9e",
+        "android_client_info": {
+          "package_name": "com.teampisir.pisir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36811673531-2isofa2b4cajctkrmke4lp268me0j40t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teampisir.pisir",
+            "certificate_hash": "446dbc2ddc7eed6960085dcfb6f678e653f3c5ac"
+          }
+        },
+        {
+          "client_id": "36811673531-6jnsqoiomdpfs9eaot7smglc74dce2b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyKsw8ZdCJxlisOB7J9cf8PkzvCT32RMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36811673531-6jnsqoiomdpfs9eaot7smglc74dce2b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
